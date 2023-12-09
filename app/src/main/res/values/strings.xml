@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Mypettheapp</string>
+    <string name="start">Начать</string>
+    <string name="care">"Позаботься о своем питомце"</string>
+    <string name="user">"Я новый юзер"</string>
+    <string name="acc">У меня есть
+        аккаунт</string>
+    <string name="data">Получать общие данные</string>
+    <string name="hi">Привет Друг!</string>
+    <string name="create">Создай аккаунт для удобного
+отслеживания своего питомца</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="pass">Повторите пароль</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="who">Какой питомец у вас есть?</string>
+    <string name="doggy">Собака</string>
+    <string name="cat">Кошка</string>
+    <string name="horse">Лошадь</string>\
+    <string name="rabbit">Кролик</string>
+    <string name="hamster">Хомяк</string>
+    <string name="bird">Птица</string>
+    <string name="snake">Змея</string>
+    <string name="another">Другое</string>
+    <string name="boy">Мальчик</string>
+    <string name="girl">Девочка</string>
+    <string name="name">Установи контакт с хвостатым другом</string>
+    <string name="name2">Позаботься о своем питомце</string>
+    <string name="push">Выберите,
+        о
+        чем стоит напоминать</string>
+    <string name="vactination">Вакцинация</string>
+    <string name="medicament">Лекарства</string>
+    <string name="imidzh">Имидж</string>
+    <string name="food">Еда</string>
+    <string name="progulka">Прогулка</string>
+    <string name="blohi">Блохи</string>
+    <string name="remainder">Настроить напоминание</string>
+    <string name="remind">Мои питомцы</string>
+    <string name="reminder">Напоминание</string>
+    <string name="trac">Трекер</string>
+    <string name="comm">Сообщества</string>
+    <string name="specilist">Специлисты</string>
+    <string name="pet">
+        Питомцы</string>
+    <string name="change_language" translatable="false">Язык</string>
+    <string name="me">Я...</string>
+    <string name="prosto">Oбычный владелец питомца</string>
+    <string name="groom">Профессиональный
+        грумер</string>
+
+
+</resources>

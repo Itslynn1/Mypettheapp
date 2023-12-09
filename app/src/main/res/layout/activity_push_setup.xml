@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    tools:context=".PushSetup">
+
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="477dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="95dp"
+        android:layout_marginTop="32dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="@string/push"
+        android:textColor="#2f2f2f"
+        android:textSize="21sp"
+        android:textStyle="normal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.422"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="101dp"
+        android:layout_height="70dp"
+        android:layout_marginBottom="528dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.822"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Switch
+        android:id="@+id/switch6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="554dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.153"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <Switch
+        android:id="@+id/switch7"
+        android:layout_width="50dp"
+        android:layout_height="20dp"
+        android:layout_marginBottom="552dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.509"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="80dp"
+        android:layout_height="81dp"
+        android:layout_marginBottom="617dp"
+        android:background="@drawable/one"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="80dp"
+        android:layout_height="81dp"
+        android:layout_marginBottom="609dp"
+        android:background="@drawable/medicament"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.12"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="272dp"
+        android:layout_height="30dp"
+        android:layout_marginBottom="580dp"
+        android:fontFamily="sans-serif"
+        android:text="@string/vactination"
+        android:textColor="#2f2f2f"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.194"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="135dp"
+        android:layout_height="23dp"
+        android:layout_marginBottom="585dp"
+        android:fontFamily="sans-serif"
+        android:text="@string/medicament"
+        android:textColor="#2f2f2f"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.594"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="80dp"
+        android:layout_height="81dp"
+        android:layout_marginBottom="617dp"
+        android:background="@drawable/two"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.906"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="135dp"
+        android:layout_height="23dp"
+        android:layout_marginStart="272dp"
+        android:layout_marginBottom="584dp"
+        android:fontFamily="sans-serif"
+        android:text="@string/imidzh"
+        android:textColor="#2f2f2f"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/textView11" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="80dp"
+        android:layout_height="81dp"
+        android:layout_marginBottom="457dp"
+        android:background="@drawable/bloxi"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.12"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="135dp"
+        android:layout_height="23dp"
+        android:layout_marginBottom="425dp"
+        android:fontFamily="sans-serif"
+        android:text="@string/blohi"
+        android:textColor="#2f2f2f"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.177"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="80dp"
+        android:layout_height="81dp"
+        android:layout_marginBottom="456dp"
+        android:background="@drawable/progulka"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="135dp"
+        android:layout_height="23dp"
+        android:layout_marginBottom="424dp"
+        android:fontFamily="sans-serif"
+        android:text="@string/progulka"
+        android:textColor="#2f2f2f"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.597"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="80dp"
+        android:layout_height="81dp"
+        android:layout_marginBottom="457dp"
+        android:background="@drawable/food"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.906"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="135dp"
+        android:layout_height="23dp"
+        android:layout_marginStart="308dp"
+        android:layout_marginBottom="424dp"
+        android:fontFamily="sans-serif"
+        android:text="@string/food"
+        android:textColor="#2f2f2f"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Switch
+        android:id="@+id/switch11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="390dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/switch14"
+        app:layout_constraintHorizontal_bias="0.16"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Switch
+        android:id="@+id/switch12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="389dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Switch
+        android:id="@+id/switch14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="388dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.884"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="176dp"
+        android:background="@drawable/aanimals"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:layout_width="168dp"
+        android:layout_height="18dp"
+        android:layout_marginEnd="112dp"
+        android:layout_marginBottom="52dp"
+        android:background="@drawable/points5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/buttonSetReminder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="112dp"
+        android:backgroundTint="@color/bg"
+        android:onClick="onSetReminderClick"
+        android:text="@string/remainder"
+        android:textColor="#2f2f2f"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.555"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Mypettheapp</string>
+    <string name="start">Бастау</string>
+    <string name="care">"Таусылықты пайдаланып өзіңді сақтау"</string>
+    <string name="user">"Мен жаңа пайдаланушымын"</string>
+    <string name="acc">Менде аккаунт бар</string>
+    <string name="data">Жалпы деректерді алу</string>
+    <string name="hi">Сәлем Дос!</string>
+    <string name="create">Питомеціңді бақылау үшін тіркелгін жасау</string>
+    <string name="email">Пошта</string>
+    <string name="password">Құпия сөз</string>
+    <string name="pass">Құпия сөзді қайталау</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Құпия сөз</string>
+    <string name="action_sign_in">Тіркелу немесе кіру</string>
+    <string name="action_sign_in_short">Кіру</string>
+    <string name="welcome">"Қош келдіңіз!"</string>
+    <string name="invalid_username">Жарамсыз пайдаланушы аты</string>
+    <string name="invalid_password">Құпия сөз >5 тауарлы болуы керек</string>
+    <string name="login_failed">"Кіру сәтсіз аяқталды"</string>
+    <string name="who">Сіздің бар питомециңіз кім?</string>
+    <string name="doggy">Ит</string>
+    <string name="cat">Мысық</string>
+    <string name="horse">Ат</string>
+    <string name="rabbit">Көз</string>
+    <string name="hamster">Шыбынтық</string>
+    <string name="bird">Құс</string>
+    <string name="snake">Жылан</string>
+    <string name="another">Басқа</string>
+    <string name="boy">Ұлы</string>
+    <string name="girl">Қыз</string>
+    <string name="name">Хвостты достармен байланысы жасау</string>
+    <string name="name2">Питомеціңді таусылығына көмек шалу</string>
+    <string name="push">Еске салатын естіту кезінде нөкерлер</string>
+    <string name="vactination">Вакцинация</string>
+    <string name="medicament">Дәрігерлік</string>
+    <string name="imidzh">Имидж</string>
+    <string name="food">Тамақ</string>
+    <string name="progulka">Прогулка</string>
+    <string name="blohi">Көмірек</string>
+    <string name="remainder">Нөкерлікті теңшеу</string>
+    <string name="remind">Менің питомцым</string>
+    <string name="reminder">Нөкерлеу</string>
+    <string name="trac">Трекер</string>
+    <string name="comm">Қоғамдар</string>
+    <string name="specilist">Мамандар</string>
+    <string name="pet">Питомцы</string>
+    <string name="change_language" >Тілі</string>
+    <string name="me">Мен...</string>
+    <string name="prosto">Дастарынды қолданушы</string>
+    <string name="groom">Профессионалдык жылушы</string>
+
+
+</resources>
